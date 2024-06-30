@@ -1,0 +1,1 @@
+mysql+mysqlconnector://datamigra:123456$@8.8.0.8:3306/mcotrina
